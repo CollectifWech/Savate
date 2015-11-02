@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.osf" format="1">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="79" y="78" type="line"/>
+      <point x="62" y="1" type="line"/>
+      <point x="543" y="1" type="line"/>
+      <point x="560" y="78" type="line"/>
+      <point x="192" y="78" type="line"/>
+      <point x="184" y="43" type="line"/>
+      <point x="509" y="457" type="line"/>
+      <point x="495" y="457" type="line"/>
+      <point x="355" y="-200" type="line"/>
+      <point x="424" y="-200" type="line"/>
+      <point x="584" y="550" type="line"/>
+      <point x="420" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four.osf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>620</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four.osf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>620</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

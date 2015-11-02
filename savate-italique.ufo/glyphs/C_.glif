@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="670"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="609" y="236" type="line"/>
+      <point x="572" y="167"/>
+      <point x="479" y="129"/>
+      <point x="370" y="129" type="curve" smooth="yes"/>
+      <point x="267" y="129"/>
+      <point x="173" y="218"/>
+      <point x="173" y="314" type="curve" smooth="yes"/>
+      <point x="173" y="443"/>
+      <point x="259" y="544"/>
+      <point x="426" y="544" type="curve" smooth="yes"/>
+      <point x="542" y="544"/>
+      <point x="610" y="497"/>
+      <point x="629" y="451" type="curve"/>
+      <point x="714" y="518" type="line"/>
+      <point x="700" y="650"/>
+      <point x="607" y="740"/>
+      <point x="473" y="740" type="curve" smooth="yes"/>
+      <point x="244" y="740"/>
+      <point x="104" y="523"/>
+      <point x="104" y="254" type="curve" smooth="yes"/>
+      <point x="104" y="96"/>
+      <point x="208" y="-10"/>
+      <point x="332" y="-10" type="curve" smooth="yes"/>
+      <point x="495" y="-10"/>
+      <point x="608" y="83"/>
+      <point x="656" y="191" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>670</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>O</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>10</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>670</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

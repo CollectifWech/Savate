@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="520"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="607" y="800" type="line"/>
+      <point x="538" y="805"/>
+      <point x="446" y="786"/>
+      <point x="419" y="746" type="curve"/>
+      <point x="408" y="786"/>
+      <point x="324" y="805"/>
+      <point x="253" y="800" type="curve"/>
+      <point x="246" y="766" type="line"/>
+      <point x="309" y="754"/>
+      <point x="365" y="685"/>
+      <point x="383" y="625" type="curve"/>
+      <point x="403" y="625" type="line"/>
+      <point x="447" y="685"/>
+      <point x="531" y="754"/>
+      <point x="600" y="766" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>10</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

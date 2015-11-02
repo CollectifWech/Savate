@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="520"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="170" y="550" type="line"/>
+      <point x="106" y="247" type="line" smooth="yes"/>
+      <point x="71" y="80"/>
+      <point x="132" y="-10"/>
+      <point x="230" y="-10" type="curve" smooth="yes"/>
+      <point x="357" y="-10"/>
+      <point x="432" y="55"/>
+      <point x="448" y="159" type="curve"/>
+      <point x="425" y="163" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="70"/>
+      <point x="492" y="132"/>
+      <point x="506" y="198" type="curve" smooth="yes"/>
+      <point x="581" y="550" type="line"/>
+      <point x="518" y="550" type="line"/>
+      <point x="441" y="188" type="line"/>
+      <point x="462" y="248" type="line"/>
+      <point x="435" y="174"/>
+      <point x="362" y="124"/>
+      <point x="274" y="124" type="curve" smooth="yes"/>
+      <point x="174" y="124"/>
+      <point x="153" y="175"/>
+      <point x="177" y="289" type="curve" smooth="yes"/>
+      <point x="233" y="550" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>u</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>a</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>10.0</real>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>u</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

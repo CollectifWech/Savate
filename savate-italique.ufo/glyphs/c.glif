@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="1">
+  <advance width="520"/>
+  <unicode hex="0063"/>
+  <outline>
+    <contour>
+      <point x="269" y="-10" type="curve" smooth="yes"/>
+      <point x="374" y="-10"/>
+      <point x="455" y="34"/>
+      <point x="504" y="112" type="curve"/>
+      <point x="456" y="163" type="line"/>
+      <point x="427" y="124"/>
+      <point x="370" y="101"/>
+      <point x="290" y="101" type="curve" smooth="yes"/>
+      <point x="200" y="101"/>
+      <point x="158" y="165"/>
+      <point x="157" y="227" type="curve" smooth="yes"/>
+      <point x="151" y="318"/>
+      <point x="239" y="402"/>
+      <point x="352" y="402" type="curve" smooth="yes"/>
+      <point x="432" y="402"/>
+      <point x="467" y="375"/>
+      <point x="487" y="338" type="curve"/>
+      <point x="551" y="425" type="line"/>
+      <point x="539" y="510"/>
+      <point x="489" y="560"/>
+      <point x="381" y="560" type="curve" smooth="yes"/>
+      <point x="214" y="560"/>
+      <point x="93" y="422"/>
+      <point x="93" y="188" type="curve" smooth="yes"/>
+      <point x="93" y="67"/>
+      <point x="171" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>c</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>10</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>c</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+@figures = [zero one two three four five six seven eight nine];
+@figuresOldStyle = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf];
+
+feature lnum {
+    sub @figuresOldStyle by @figures;
+} lnum;
+
+feature onum {
+    sub @figures by @figuresOldStyle;
+} onum;

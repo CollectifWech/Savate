@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="630"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="572" y="181" type="line"/>
+      <point x="572" y="258" type="line"/>
+      <point x="77" y="258" type="line"/>
+      <point x="77" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="0" type="line"/>
+      <point x="495" y="730" type="line"/>
+      <point x="424" y="730" type="line"/>
+      <point x="424" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="730" type="line"/>
+      <point x="77" y="258" type="line"/>
+      <point x="214" y="258" type="line"/>
+      <point x="426" y="619" type="line"/>
+      <point x="465" y="619" type="line"/>
+      <point x="465" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>630</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>A</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-10</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>four</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>630</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

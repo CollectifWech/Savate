@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcommaaccent" format="1">
+  <advance width="520"/>
+  <unicode hex="0123"/>
+  <outline>
+    <contour>
+      <point x="544.0" y="740.0" type="line"/>
+      <point x="472.786407679" y="690.667802983"/>
+      <point x="434.0" y="656.213753388"/>
+      <point x="434.0" y="600.0" type="curve"/>
+      <point x="311.0" y="600.0" type="line"/>
+      <point x="311.0" y="682.160035417"/>
+      <point x="390.006868066" y="726.784716184"/>
+      <point x="528.0" y="754.0" type="curve"/>
+    </contour>
+    <component base="g" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>gcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>520</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

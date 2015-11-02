@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="530"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="319" y="309" type="curve" smooth="yes"/>
+      <point x="424" y="323"/>
+      <point x="488" y="385"/>
+      <point x="488" y="517" type="curve" smooth="yes"/>
+      <point x="488" y="657"/>
+      <point x="405" y="738"/>
+      <point x="269" y="738" type="curve" smooth="yes"/>
+      <point x="144" y="738"/>
+      <point x="69" y="682"/>
+      <point x="42" y="571" type="curve"/>
+      <point x="103" y="512" type="line"/>
+      <point x="128" y="560"/>
+      <point x="187" y="585"/>
+      <point x="269" y="585" type="curve" smooth="yes"/>
+      <point x="397" y="585"/>
+      <point x="428" y="548"/>
+      <point x="428" y="510" type="curve" smooth="yes"/>
+      <point x="428" y="472"/>
+      <point x="400" y="446"/>
+      <point x="309" y="436" type="curve" smooth="yes"/>
+      <point x="203" y="424"/>
+      <point x="146" y="378"/>
+      <point x="146" y="269" type="curve" smooth="yes"/>
+      <point x="146" y="234"/>
+      <point x="167" y="196"/>
+      <point x="191" y="166" type="curve"/>
+      <point x="241" y="174" type="line"/>
+      <point x="229" y="197"/>
+      <point x="218" y="225"/>
+      <point x="218" y="244" type="curve" smooth="yes"/>
+      <point x="218" y="292"/>
+      <point x="275" y="303"/>
+    </contour>
+    <contour>
+      <point x="311" y="46" type="curve" smooth="yes"/>
+      <point x="311" y="96"/>
+      <point x="286" y="116"/>
+      <point x="244" y="116" type="curve" smooth="yes"/>
+      <point x="197" y="116"/>
+      <point x="173" y="95"/>
+      <point x="173" y="46" type="curve" smooth="yes"/>
+      <point x="173" y="8"/>
+      <point x="198" y="-10"/>
+      <point x="244" y="-10" type="curve" smooth="yes"/>
+      <point x="285" y="-10"/>
+      <point x="311" y="8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>question</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>530</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-10</integer>
+                <integer>200</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>question</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>530</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

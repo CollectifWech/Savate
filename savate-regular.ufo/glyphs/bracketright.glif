@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright" format="1">
+  <advance width="330"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="320" y="-200" type="line"/>
+      <point x="320" y="800" type="line"/>
+      <point x="122" y="800" type="line"/>
+      <point x="122" y="626" type="line"/>
+      <point x="250" y="626" type="line"/>
+      <point x="250" y="-26" type="line"/>
+      <point x="122" y="-26" type="line"/>
+      <point x="122" y="-200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>330</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>330</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

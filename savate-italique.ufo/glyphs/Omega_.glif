@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="1">
+  <advance width="670"/>
+  <unicode hex="03A9"/>
+  <outline>
+    <contour>
+      <point x="400" y="0" type="line"/>
+      <point x="649" y="0" type="line"/>
+      <point x="676" y="126" type="line"/>
+      <point x="557" y="116" type="line"/>
+      <point x="427" y="126" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="326" y="126" type="line"/>
+      <point x="196" y="116" type="line"/>
+      <point x="70" y="126" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="126" type="line"/>
+      <point x="240" y="139"/>
+      <point x="175" y="212"/>
+      <point x="174" y="325" type="curve" smooth="yes"/>
+      <point x="173" y="441"/>
+      <point x="258" y="544"/>
+      <point x="442" y="544" type="curve"/>
+      <point x="573" y="544"/>
+      <point x="646" y="460"/>
+      <point x="646" y="370" type="curve" smooth="yes"/>
+      <point x="646" y="240"/>
+      <point x="546" y="128"/>
+      <point x="427" y="126" type="curve"/>
+      <point x="410" y="45" type="line"/>
+      <point x="572" y="49"/>
+      <point x="719" y="202"/>
+      <point x="719" y="470" type="curve" smooth="yes"/>
+      <point x="719" y="632"/>
+      <point x="618" y="740"/>
+      <point x="484" y="740" type="curve"/>
+      <point x="273" y="740"/>
+      <point x="107" y="566"/>
+      <point x="107" y="255" type="curve" smooth="yes"/>
+      <point x="107" y="147"/>
+      <point x="185" y="58"/>
+      <point x="300" y="43" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Omega</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>670</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Omega</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>670</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

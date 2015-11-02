@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="530"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="454" y="625" type="curve"/>
+      <point x="454" y="659" type="line"/>
+      <point x="390" y="670"/>
+      <point x="314" y="741"/>
+      <point x="282" y="800" type="curve"/>
+      <point x="262" y="800" type="line"/>
+      <point x="230" y="741"/>
+      <point x="154" y="670"/>
+      <point x="90" y="659" type="curve"/>
+      <point x="90" y="625" type="line"/>
+      <point x="158" y="620"/>
+      <point x="252" y="639"/>
+      <point x="272" y="679" type="curve"/>
+      <point x="292" y="639"/>
+      <point x="386" y="620"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>530</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-10</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>530</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

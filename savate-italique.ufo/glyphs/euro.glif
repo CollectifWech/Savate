@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="euro" format="1">
+  <advance width="770"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="428" y="363" type="line"/>
+      <point x="445" y="444" type="line"/>
+      <point x="69" y="444" type="line"/>
+      <point x="52" y="363" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="223" type="line"/>
+      <point x="416" y="304" type="line"/>
+      <point x="40" y="304" type="line"/>
+      <point x="23" y="223" type="line"/>
+    </contour>
+    <component base="C" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>770</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>770</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

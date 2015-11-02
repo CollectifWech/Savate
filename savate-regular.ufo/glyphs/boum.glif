@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boum" format="1">
+  <advance width="630"/>
+  <unicode hex="2734"/>
+  <outline>
+    <contour>
+      <point x="315" y="584" type="line"/>
+      <point x="370" y="423" type="line"/>
+      <point x="530" y="499" type="line"/>
+      <point x="454" y="343" type="line"/>
+      <point x="612" y="287" type="line"/>
+      <point x="454" y="232" type="line"/>
+      <point x="530" y="75" type="line"/>
+      <point x="370" y="151" type="line"/>
+      <point x="315" y="-10" type="line"/>
+      <point x="261" y="151" type="line"/>
+      <point x="102" y="75" type="line"/>
+      <point x="178" y="232" type="line"/>
+      <point x="18" y="287" type="line"/>
+      <point x="178" y="343" type="line"/>
+      <point x="102" y="499" type="line"/>
+      <point x="261" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="415" type="line"/>
+      <point x="283" y="365" type="line"/>
+      <point x="227" y="377" type="line"/>
+      <point x="237" y="320" type="line"/>
+      <point x="188" y="287" type="line"/>
+      <point x="237" y="259" type="line"/>
+      <point x="227" y="199" type="line"/>
+      <point x="283" y="211" type="line"/>
+      <point x="315" y="159" type="line"/>
+      <point x="345" y="211" type="line"/>
+      <point x="405" y="199" type="line"/>
+      <point x="391" y="259" type="line"/>
+      <point x="445" y="287" type="line"/>
+      <point x="391" y="320" type="line"/>
+      <point x="405" y="377" type="line"/>
+      <point x="345" y="365" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>boum</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>630</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>boum</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>630</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

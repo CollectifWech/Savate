@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wech" format="1">
+  <advance width="730"/>
+  <unicode hex="F8FF"/>
+  <outline>
+    <contour>
+      <point x="646" y="83" type="line"/>
+      <point x="83" y="83" type="line"/>
+      <point x="83" y="658" type="line"/>
+      <point x="646" y="658" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="116" type="line"/>
+      <point x="613" y="116" type="line"/>
+      <point x="613" y="625" type="line"/>
+      <point x="116" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="321.625800125" y="412.028169375" type="line"/>
+      <point x="281.839992875" y="412.028169375" type="line"/>
+      <point x="265.925405375" y="448.754649375" type="line"/>
+      <point x="265.925405375" y="451.815079125" type="line"/>
+      <point x="260.416102625" y="451.815079125" type="line"/>
+      <point x="260.416102625" y="448.754649375" type="line"/>
+      <point x="243.889407125" y="412.028169375" type="line"/>
+      <point x="204.102497375" y="412.028169375" type="line"/>
+      <point x="183.903815375" y="583.416314625" type="line"/>
+      <point x="224.914279625" y="583.416314625" type="line"/>
+      <point x="238.992212375" y="467.117668875" type="line"/>
+      <point x="245.113512875" y="467.117668875" type="line"/>
+      <point x="246.337177625" y="515.472657375" type="line"/>
+      <point x="279.391119875" y="515.472657375" type="line"/>
+      <point x="280.614784625" y="467.117668875" type="line"/>
+      <point x="287.348193125" y="467.117668875" type="line"/>
+      <point x="295.917925625" y="583.416314625" type="line"/>
+      <point x="338.152054625" y="583.416314625" type="line"/>
+    </contour>
+    <contour>
+      <point x="522.094036625" y="548.526048375" type="line"/>
+      <point x="452.315709125" y="548.526048375" type="line"/>
+      <point x="452.315709125" y="516.085206375" type="line"/>
+      <point x="509.240871125" y="516.085206375" type="line"/>
+      <point x="509.240871125" y="481.196593875" type="line"/>
+      <point x="452.315709125" y="481.196593875" type="line"/>
+      <point x="452.315709125" y="446.918435625" type="line"/>
+      <point x="523.319244875" y="446.918435625" type="line"/>
+      <point x="523.319244875" y="412.027618125" type="line"/>
+      <point x="408.856261625" y="412.027618125" type="line"/>
+      <point x="408.856261625" y="583.415763375" type="line"/>
+      <point x="522.094036625" y="583.415763375" type="line"/>
+    </contour>
+    <contour>
+      <point x="314.763729875" y="199.165958625" type="move"/>
+      <point x="317.824159625" y="159.991708125" type="line"/>
+      <point x="308.030872625" y="154.483507875"/>
+      <point x="290.892620375" y="152.646742875"/>
+      <point x="274.364822375" y="152.646742875" type="curve" smooth="yes"/>
+      <point x="222.948852875" y="152.646742875"/>
+      <point x="191.732667875" y="186.312793125"/>
+      <point x="191.732667875" y="242.625406125" type="curve" smooth="yes"/>
+      <point x="191.732667875" y="298.933609125"/>
+      <point x="226.009282625" y="331.375553625"/>
+      <point x="276.813585125" y="331.375553625" type="curve" smooth="yes"/>
+      <point x="293.339839625" y="331.375553625"/>
+      <point x="309.254537375" y="327.089915625"/>
+      <point x="317.824159625" y="322.805931375" type="curve"/>
+      <point x="314.763729875" y="284.243678625" type="line"/>
+      <point x="308.030872625" y="289.139770875"/>
+      <point x="293.952939875" y="291.588643875"/>
+      <point x="283.546552625" y="291.588643875" type="curve" smooth="yes"/>
+      <point x="254.777586875" y="291.588643875"/>
+      <point x="238.251442625" y="275.063050875"/>
+      <point x="238.251442625" y="243.236962875" type="curve" smooth="yes"/>
+      <point x="238.251442625" y="210.796120875"/>
+      <point x="251.717267375" y="193.045209375"/>
+      <point x="287.830536875" y="193.045209375" type="curve" smooth="yes"/>
+      <point x="297.625477625" y="193.045209375"/>
+      <point x="306.806105375" y="195.493531125"/>
+      <point x="314.763729875" y="199.165958625" type="curve"/>
+    </contour>
+    <contour>
+      <point x="449.551962125" y="156.319280625" type="line"/>
+      <point x="403.645295375" y="156.319280625" type="line"/>
+      <point x="403.645295375" y="327.703126125" type="line"/>
+      <point x="449.551962125" y="327.703126125" type="line"/>
+    </contour>
+    <contour>
+      <point x="535.856985125" y="156.319280625" type="line"/>
+      <point x="489.950318375" y="156.319280625" type="line"/>
+      <point x="489.950318375" y="327.703126125" type="line"/>
+      <point x="535.856985125" y="327.703126125" type="line"/>
+    </contour>
+    <contour>
+      <point x="439.146015875" y="257.927995875" type="line"/>
+      <point x="502.802491625" y="257.927995875" type="line"/>
+      <point x="502.802491625" y="219.977851125" type="line"/>
+      <point x="439.146015875" y="219.977851125" type="line"/>
+    </contour>
+    <contour>
+      <point x="364.600698875" y="345.024944625" type="move"/>
+      <point x="377.845251875" y="345.024944625"/>
+      <point x="386.184010625" y="355.325822625"/>
+      <point x="386.184010625" y="367.099089375" type="curve" smooth="yes"/>
+      <point x="386.184010625" y="378.379869375"/>
+      <point x="377.845251875" y="389.172241875"/>
+      <point x="364.600698875" y="389.172241875" type="curve" smooth="yes"/>
+      <point x="351.356256125" y="389.172241875"/>
+      <point x="343.508991875" y="378.379869375"/>
+      <point x="343.508991875" y="367.099089375" type="curve" smooth="yes"/>
+      <point x="343.508991875" y="355.325822625"/>
+      <point x="351.356256125" y="345.024944625"/>
+      <point x="364.600698875" y="345.024944625" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>alt</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>wech</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>730</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>wech</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>730</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
