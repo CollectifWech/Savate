@@ -91,38 +91,13 @@ p:first-child {
 }
 
 /***************************
-* Nav
-***************************/
-#nav {
-	position: fixed;
-	left: 2rem;
-	bottom: 2rem;
-	z-index: 1;
-}
-#nav a.selected {
-	color: white;
-}
-#nav a span {
-	display: none;
-}
-#nav .icon-nav {
-	display: inline;
-	width: 2rem;
-	height: 2rem;
-}
-#nav a:hover span {
-	display: inline;
-}
-
-
-/***************************
 * Sections
 ***************************/
 
 section {
 	position: relative;
 	padding: 4rem;
-	min-height: 100vh;
+	min-height: 99vh;
 }
 
 /* #title */ 
@@ -130,6 +105,14 @@ section {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+#wech-logo {
+	fill: rgb(235, 230, 40);
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+	width: 1.5rem;
+	height: 1.5rem;
 }
 #title article {
 	text-align: center;
@@ -260,6 +243,25 @@ section {
 #infos {
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
 	min-height: 33vh;
+}
+#infos #download {
+	font-size: 2rem;
+	text-align: center;
+	margin-bottom: 4rem;
+}
+#download-link {
+	margin: 0 1rem;
+	transition: margin 0.2s;
+}
+#download-link:hover {
+	text-decoration: none;
+	margin: 0 0;
+}
+#infos footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;	
+	border-top: 1px dashed;
+	padding-top: 0.6rem;
 }
