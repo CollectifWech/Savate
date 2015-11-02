@@ -1,0 +1,265 @@
+@font-face {
+	font-family: Savate;
+	src: url(src/savate-regular.otf);
+}
+
+@font-face {
+	font-family: Savate;
+	src: url(src/savate-italique.otf);
+	font-style: italic;
+}
+
+/***************************
+* Reset
+***************************/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+	outline: none;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6, p {
+	font-size: inherit;
+	font-weight: normal;
+}
+input {
+	font-family: inherit;
+	font-style: inherit;
+	background-color: inherit;
+	color: inherit;
+}
+ul, li {
+	list-style: none;
+}
+
+body {
+	font-family: Savate, sans-serif;
+	margin: 0;
+}
+
+/***************************
+* Typographie
+***************************/
+a {
+	font-style: italic;
+}
+a:hover {
+	text-decoration: underline;
+}
+p:first-child {
+	margin-top: 0;
+}
+.italic {
+	font-style: italic;
+}
+.cap {
+	text-transform: uppercase;
+}
+.small {
+	font-size: 2rem;
+}
+.medium {
+	font-size: 3rem;
+}
+.big {
+	font-size: 5rem;
+}
+.left {
+	text-align: left;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+/***************************
+* Couleurs
+***************************/
+.light {
+	background-color: rgb(235, 230, 40);
+	color: rgb(20, 20, 20);
+}
+.dark {
+	background-color: rgb(20, 20, 20);
+	color: rgb(235, 230, 40);
+}
+
+/***************************
+* Nav
+***************************/
+#nav {
+	position: fixed;
+	left: 2rem;
+	bottom: 2rem;
+	z-index: 1;
+}
+#nav a.selected {
+	color: white;
+}
+#nav a span {
+	display: none;
+}
+#nav .icon-nav {
+	display: inline;
+	width: 2rem;
+	height: 2rem;
+}
+#nav a:hover span {
+	display: inline;
+}
+
+
+/***************************
+* Sections
+***************************/
+
+section {
+	position: relative;
+	padding: 4rem;
+	min-height: 100vh;
+}
+
+/* #title */ 
+#title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#title article {
+	text-align: center;
+}
+#title h1 {
+	font-size: 8rem;
+}
+
+/* #styles */
+#styles {
+	font-size: 1.5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#styles article {
+	font-size: 6rem;
+	margin-right: 3rem;
+	margin-bottom: 3rem;
+	display: flex;
+	align-items: center;
+}
+#styles header {
+	margin-right: 1rem;
+	font-size: 1rem;
+}
+
+/* #exemple */
+#exemple {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#exemple article {
+	font-size: 3rem;
+	text-align: center;
+	line-height: 1.4;
+}
+
+/* #quote */
+#quote {
+	font-size: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#quote article {
+	text-align: justify;
+}
+
+/* #cascade */
+#cascade {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+#cascade article {
+	margin-right: 4rem;
+}
+#cascade article div {
+	display: flex;
+	align-items: center;
+	margin-bottom: 1rem;
+}
+#cascade article span {
+	white-space: nowrap;
+	width: 2rem;
+	margin-left: -2rem;
+}
+#cascade input {
+	white-space: nowrap;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: '';
+}
+
+/* #linguistic */
+#linguistic {
+	display: flex;
+	align-items: center;
+}
+#linguistic article {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	width: 100%;
+}
+#linguistic header {
+	max-width: 33%;
+}
+#linguistic ul {
+	font-size: 4rem;
+	min-width: 50%;
+}
+
+/* #glyphs */
+#glyphs {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	flex-direction: row;
+}
+#glyphs article {
+	max-width: 35rem;
+}
+#glyphs ul {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	font-size: 1.5rem;
+}
+#glyphs ul li {
+	display: flex;
+	justify-content: center;
+	align-items : center;
+	width: 3rem;
+	height: 3rem;
+	border: 1px solid;
+	margin: 0.2rem;
+}
+#glyphs ul li:hover {
+	background-color: rgb(235, 230, 40);
+	color: rgb(20, 20, 20);
+}
+
+/* #infos */
+#infos {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	min-height: 33vh;
+}

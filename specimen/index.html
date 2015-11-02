@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang='fr'>
+<head>
+	<title>Savate Specimen</title>
+	<meta charset='utf-8'>
+	<link rel="stylesheet" type="text/css" href="savate.css">
+</head>
+<body>
+	<section id="title" class="dark">
+		<article>
+			<h1 contenteditable="true" spellcheck="false">Savate</h1>
+			<p contenteditable="true" spellcheck="false" class="italic">Une fonte libre du collectif We.ch</p>
+		</article>
+	</section>
+	<section id="styles" class="light">
+		<article>
+			<header>
+				<h3>Savate Régulière |</h3>
+			</header>
+			<p contenteditable="true" spellcheck="false">Pantoufle</p>
+		</article>
+		<article class="italic">
+			<header>
+				<h3>Savate Italique |</h3>
+			</header>
+			<p contenteditable="true" spellcheck="false">Babouche</p>
+		</article>
+	</section>
+	<section id="exemple" class="dark">
+		<article>
+			<p contenteditable="true" spellcheck="false" class="big">Combo Breaker</p>
+			<p contenteditable="true" spellcheck="false" class="cap medium">Street Fighting Man</p>
+			<p contenteditable="true" spellcheck="false" class="italic small">Et ma main dans ta gueule&thinsp;?</p>
+			<p contenteditable="true" spellcheck="false" class="big">À l’aise Blaise</p>
+			<p contenteditable="true" spellcheck="false" class="cap italic medium">Paroles de scout</p>
+			<p contenteditable="true" spellcheck="false" class="medium">T’aimes ça, hein.</p>
+			<p contenteditable="true" spellcheck="false" class="italic big">Paix et félicité</p>
+		</article>
+	</section>
+	<section id="quote" class="light">
+		<article class="hyphenate italic">
+			<p contenteditable="true" spellcheck="false">«&thinsp;Je suis l’ennemi, parce que je pense, parce que j’aime lire, parce que je suis pour la liberté d’expression et la liberté de choix, je suis le genre de mec qui aime aller dans un bon resto et qui se demande si il va prendre une côte de bœuf ou un pavé de rumsteack géant avec ces frites mayonnaise. Je veux faire du cholestérol, je veux bouffer du bacon, du beurre, des montagnes de fromage, je veux fumer un bon cigare de la taille de la tour Eiffel dans un coin non fumeur, je veux courir nu dans les rues le corps couvert de ketchup en lisant Playboy. Pourquoi&thinsp;? Parce que j’en aurai eu envie tout d’un coup, ouais mec&thinsp;!&thinsp;»</p>
+		</article>
+	</section>
+	<section id="cascade" class="dark">
+		<article>
+			<header>
+				<h3>Savate Régulière</h3>
+			</header>
+			<div v-for="value in scale">
+				<span>{{value}} |</span><input v-model="pangram" style="font-size: {{value}}pt"></input>
+			</div>
+		</article>
+		<article class="italic">
+			<header>
+				<span>Savate Italique</span>
+			</header>
+			<div v-for="value in scale">
+				<span>{{value}} |</span><input v-model="pangram" style="font-size: {{value}}pt"></input>
+			</div>
+		</article>
+	</section>
+	<section id="linguistic" class="light">
+		<article>
+			<header>
+				<p>La Savate supporte toutes les langues européennes utilisant l'alphabet latin (Adobe Latin 3).</p>
+			</header>
+			<ul>
+				<li class="center">tälôçĥe</li>
+				<li class="right italic">mőrnîflę</li>
+				<li class="center">bãstoňnade</li>
+				<li class="right">čaļotţè</li>
+				<li class="center italic">rǻćļée</li>
+				<li class="right">běīģñë</li>
+			</ul>
+		</article>
+	</section>
+	<section id="glyphs" class="dark">
+		<article>
+			<header>
+				<h3>Savate Régulière</h3>
+			</header>
+			<ul>
+				<li v-for="glyph in glyphsList">{{ glyph }}</li>
+			</ul>
+		</article>
+		<article class='italic'>
+			<header>
+				<h3>Savate Italique</h3>
+			</header>
+			<ul>
+				<li v-for="glyph in glyphsList">{{ glyph }}</li>
+			</ul>
+		</article>
+	</section>
+	<section id="infos" class="light">
+		<p>La Savate est distribuée sous license libre (<a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web">SIL Open Font License, Version 1.1</a>).
+		Les fichiers sources sont disponibles sur <a href="https://github.com/CollectifWech/Savate">Github</a>.</p>
+		<p>La Savate est une création du <a href="http://www.collectif-we.ch">collectif We.ch</a></p>
+	</section>
+
+	<script type="text/javascript" src="js/hyphenator.js"></script>
+	<script type="text/javascript" src="js/vue.min.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
