@@ -246,15 +246,17 @@ section {
 	min-height: 33vh;
 }
 #infos #download {
-	font-size: 2rem;
 	text-align: center;
 	margin-bottom: 4rem;
 }
 #download-link {
+	font-size: 2rem;
+}
+#download-link a {
 	margin: 0 1rem;
 	transition: margin 0.2s;
 }
-#download-link:hover {
+#download-link a:hover {
 	text-decoration: none;
 	margin: 0 0;
 }
